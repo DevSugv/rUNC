@@ -1,6 +1,6 @@
 ❓ What is this script ❓
 
-This script is an UNC test, to test how much your roblox executor has UNC.
+This script is an UNC test, to test how much UNC your executor has.
 
 ❓ Why this script ❓
 
